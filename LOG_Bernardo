@@ -1,0 +1,28 @@
+ 1 git init
+   2 git init flow
+   3 git flow init
+   4 history -c
+   5 git branch
+   6 git clone https://github.com/WilliamLopesSilveira/avaliacaofinal.git
+   7 cd avaliacaofinal
+   8 git flow feature start multdiv
+   9 git flow init
+  10 cd ..
+  11 git flow
+  12 git flow init
+  13 git flow init
+  14 cd avaliacaofinal
+  15 git flow init
+  16 git flow feature start divisaomultiplicacao
+  17 git branch
+  18 git add .
+  19 git commit -m ":sparkles: Adiciona nova feature divisão e multiplicação"
+  20 git flow feature finish divisaomultiplicacao
+  21 git branch
+  22 git flow release start 1.0.0
+  23 git flow release finish 1.0.0
+  24 git branch
+  25 git checkout master
+  26 git push
+  27 git pull
+  28 git push
