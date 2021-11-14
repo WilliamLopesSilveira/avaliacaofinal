@@ -1,0 +1,19 @@
+1 history -c
+2 git clone https://github.com/WilliamLopesSilveira/avaliacaofinal.git
+3 git flow init
+4 git branch
+5 git flow feature start somasubtracao
+6 git branch
+7 git add .
+8 gitmoji -c
+9 git flow feature finish somasubtracao
+10 git branch
+11 git flow release start 1.0.0
+12 git branch
+13 git flow release finish 1.0.0
+14 git branch
+15 git checkout master
+16 git push
+17 git config -l
+18 git push origin master
+11 history
